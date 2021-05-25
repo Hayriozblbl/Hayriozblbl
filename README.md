@@ -10,14 +10,14 @@
 
  [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][wordpress]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/wordpress.svg" align="left" />][wordpress]
 
 
 <br />
 <br />
 
 [twitter]: https://twitter.com/hayriozblbl
-[linkedin]: https://linkedibn.com/hayriozbulbul
+[linkedin]: https://linkedin.com/in/hayriozbulbul/
 [wordpress]: https://hayriozbulbul.com.tr
 
 ### Tech | Use
