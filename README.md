@@ -11,10 +11,9 @@
 
 <br />
 <br />
-
-[twitter]: https://twitter.com/hayriozblbl
-[linkedin]: https://linkedin.com/in/hayriozbulbul/
-[wordpress]: https://hayriozbulbul.com.tr
+#https://twitter.com/hayriozblbl
+#https://linkedin.com/in/hayriozbulbul/
+#https://hayriozbulbul.com.tr
 
 ### Tech | Use
 
