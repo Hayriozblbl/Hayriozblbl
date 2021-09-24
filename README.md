@@ -1,4 +1,4 @@
- <img src="https://media.giphy.com/media/WiM5K1e9MtEic/source.gif" align="right" width="400" height="250">
+ <img src="https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif" align="right" width="400" height="250">
 
 ### Hi there, I'm Hayri. :blush:
 
@@ -7,10 +7,6 @@
 <font color="orange"> Coffee coffee is how I keep up with < code /> </font>
 
 ### Reach out to me
-
- [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/wordpress.svg" align="left" />][wordpress]
 
 
 <br />
