@@ -8,9 +8,6 @@
 
 ### Reach out to me
 
-
-<br />
-<br />
 -> https://twitter.com/hayriozblbl <br />
 -> https://linkedin.com/in/hayriozbulbul/ <br />
 -> https://hayriozbulbul.com.tr <br />
