@@ -10,7 +10,7 @@
 
 -> https://twitter.com/hayriozblbl <br />
 -> https://linkedin.com/in/hayriozbulbul/ <br />
--> https://hayriozbulbul.com.tr <br />
+-> https://hayriozbulbul.com <br />
 
 ### Tech | Use
 
